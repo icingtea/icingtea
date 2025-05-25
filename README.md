@@ -1,5 +1,6 @@
 <h1 align="center">hi, i'm jia 🍓</h1>
 <p align="center">cse undergrad • cofounder @ gdsc aiml • associate secretary @ girlup snioe</p>
+
 ---
 
 ### 📻 recently played
