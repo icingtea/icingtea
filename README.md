@@ -6,7 +6,9 @@
 ### 🐝 about me
 
 i build machine learning things, mostly for fun and occasionally for usefulness  
+
 interested in language, memory, meaning, and models that pretend to understand them
+
 i love sunflowers btw 🌻
 
 ---
