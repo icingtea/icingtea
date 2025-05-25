@@ -1,5 +1,10 @@
 <h1 align="center">hi, i'm jia 🍓</h1>
 <p align="center">cse undergrad • cofounder @ gdsc aiml • associate secretary @ girlup snioe</p>
+---
+
+### 📻 recently played
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=51k3c445xb2870pptbmc0linj&cover_image=true&theme=novatorem&show_offline=false&background_color=343045&interchange=false&bar_color=d0018f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=51k3c445xb2870pptbmc0linj&redirect=true)
 
 ---
 
@@ -37,6 +42,3 @@ i love sunflowers btw 🌻
 - agentic AI and the tools that come with it  
 
 ---
-### 📻 recently played
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=51k3c445xb2870pptbmc0linj&cover_image=true&theme=novatorem&show_offline=false&background_color=343045&interchange=false&bar_color=d0018f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=51k3c445xb2870pptbmc0linj&redirect=true)
